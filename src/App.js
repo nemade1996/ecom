@@ -38,7 +38,7 @@ function App() {
 
 const appRouter = createBrowserRouter([
   {
-    path: "/",
+    path: "/ecom",
     element:<App/>,
     children:[
       {
